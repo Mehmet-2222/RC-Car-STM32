@@ -27,6 +27,10 @@ Custom Motor Driver Shield
 
 ![IMG_9482](https://github.com/user-attachments/assets/eec2511d-0b66-4d34-ac21-b3d26334befc)
 
+Controllable over putty062
+
+Settings
+COM3 9600 Serial
 
 Main in Src\Main.cpp 
 ```cpp
