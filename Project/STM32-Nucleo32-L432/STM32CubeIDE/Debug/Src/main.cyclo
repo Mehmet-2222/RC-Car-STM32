@@ -1,0 +1,8 @@
+../../../../Src/Board/STM32-Nucleo32-L432/ReportHandler.h:13:16:virtual void myReportHandler::onReport(WORD, WORD, bool)	2
+../../../../Src/Board/STM32-Nucleo32-L432/ReportHandler.h:11:7:myReportHandler::myReportHandler()	1
+C:/Users/mado2/Downloads/Simple/Src/main.cpp:30:5:int main()	22
+C:/Users/mado2/Downloads/Simple/Src/main.cpp:148:1:void __static_initialization_and_destruction_0()	1
+../../../../Src/Board/STM32-Nucleo32-L432/ReportHandler.h:11:7:myReportHandler::~myReportHandler()	1
+C:/Users/mado2/Downloads/Simple/Src/main.cpp:148:1:void __static_initialization_and_destruction_1()	1
+C:/Users/mado2/Downloads/Simple/Src/main.cpp:148:1:cpp)	1
+C:/Users/mado2/Downloads/Simple/Src/main.cpp:148:1:cpp)	1
