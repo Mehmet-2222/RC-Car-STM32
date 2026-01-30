@@ -82,7 +82,7 @@ while(1){
 
 	  }
 	  }
-
+    
 	 switch(Ms){
 
 	 case Ms::F:
@@ -91,7 +91,7 @@ while(1){
 		 break;
 	 case Ms::B:
 	 		 motor.set(0);
-	 		 rmotor.set(0.4);
+	 		 rmotor.set(0.4); //setting speed with 0.4 range (0.3 - 1)
 	 		 break;
 	 case Ms::Stop:
 	 		 motor.set(0);
@@ -101,7 +101,7 @@ while(1){
 	 switch(S){
 
 	 	 case S::L:
-	 		 servo.set(0.055);
+	 		 servo.set(0.055);			
 	 		 break;
 	 	 case S::R:
 	 	 		servo.set(0.090);
